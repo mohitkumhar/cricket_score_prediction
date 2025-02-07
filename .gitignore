@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.venv/
+flask application/
+*.pkl
+data/
